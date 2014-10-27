@@ -10,6 +10,7 @@
  */
 return [
 	'height' => 200,
+    'skin' => "kama",
 	'toolbarGroups' => [
 		['name' => 'undo'],
 		['name' => 'basicstyles', 'groups' => ['basicstyles', 'cleanup']],

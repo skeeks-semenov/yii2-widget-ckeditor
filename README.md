@@ -1,8 +1,6 @@
 CKEditor Widget for Yii2
 ========================
 
-[![Latest Stable Version](https://poser.pugx.org/skeeks/yii2-ckeditor-widget/v/stable.svg)](https://packagist.org/packages/skeeks/yii2-ckeditor-widget) [![Total Downloads](https://poser.pugx.org/skeeks/yii2-ckeditor-widget/downloads.svg)](https://packagist.org/packages/skeeks/yii2-ckeditor-widget) [![Latest Unstable Version](https://poser.pugx.org/skeeks/yii2-ckeditor-widget/v/unstable.svg)](https://packagist.org/packages/skeeks/yii2-ckeditor-widget) [![License](https://poser.pugx.org/skeeks/yii2-ckeditor-widget/license.svg)](https://packagist.org/packages/skeeks/yii2-ckeditor-widget)
-
 Renders a [CKEditor WYSIWYG text editor plugin](http://www.ckeditor.com) widget.
 
 Installation
@@ -63,6 +61,6 @@ Further Information
 Please, check the [CKEditor plugin site](http://www.ckeditor.com) documentation for further information about its configuration options.
 
 
-> [![skeeks!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.skeeks.us)  
+> [![skeeks!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.skeeks.com)  
 <i>Web development has never been so fun!</i>  
-[www.skeeks.us](http://www.skeeks.us)
+[www.skeeks.com](http://www.skeeks.com)

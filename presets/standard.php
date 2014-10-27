@@ -10,6 +10,7 @@
  */
 return [
 	'height' => 300,
+    //'skin' => "kama",
 	'toolbarGroups' => [
 		['name' => 'clipboard', 'groups' => ['mode','undo', 'selection', 'clipboard','doctools']],
 		['name' => 'editing', 'groups' => ['tools', 'about']],
