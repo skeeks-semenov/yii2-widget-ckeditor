@@ -1,0 +1,26 @@
+{
+    "name": "skeeks/yii2-widget-ckeditor",
+    "description": "CKEditor widget for Yii2.",
+    "keywords": ["yii", "extension", "widget", "ckeditor"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "support": {
+        "issues": "http://www.skeeks.com/",
+        "source": "http://git.skeeks.com/skeeks/yii2-widget-simpleajaxuploader"
+    },
+    "authors": [
+        {
+            "name": "Semenov Alexander",
+            "email": "semenov@skeeks.com"
+        }
+    ],
+    "require" : {
+	    "ckeditor/ckeditor": "4.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "skeeks\\widget\\ckeditor\\": ""
+        }
+    }
+}
