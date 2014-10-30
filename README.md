@@ -10,12 +10,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require "skeeks/yii2-ckeditor-widget" "*"
+php composer.phar require "skeeks/yii2-widget-ckeditor" "*"
 ```
 or add
 
 ```json
-"skeeks/yii2-ckeditor-widget" : "*"
+"skeeks/yii2-widget-ckeditor" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
