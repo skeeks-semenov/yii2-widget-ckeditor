@@ -61,6 +61,6 @@ Further Information
 Please, check the [CKEditor plugin site](http://www.ckeditor.com) documentation for further information about its configuration options.
 
 
-> [![skeeks!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.skeeks.com)  
+> [![skeeks!](https://gravatar.com/userimage/74431132/13d04d83218593564422770b616e5622.jpg)](http://www.skeeks.com)  
 <i>Web development has never been so fun!</i>  
 [www.skeeks.com](http://www.skeeks.com)
