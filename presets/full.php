@@ -79,8 +79,7 @@ return [
 		['name' => 'basicstyles', 'groups' => ['basicstyles', 'colors','cleanup']],
 		['name' => 'links', 'groups' => ['links', 'insert']],
 		['name' => 'others'],
-        '/',
-		['name' => 'test'],
+		['name' => 'about'],
 	],
     'removeButtons' => 'Smiley',
 ];
