@@ -4,9 +4,10 @@
     "keywords": ["yii", "extension", "widget", "ckeditor"],
     "type": "yii2-extension",
     "license": "MIT",
+    "homepage": "http://www.skeeks.com",
     "support": {
-        "issues": "http://www.skeeks.com/",
-        "source": "http://git.skeeks.com/skeeks/yii2-widget-simpleajaxuploader"
+        "issues": "http://cms.skeeks.com",
+        "source": "http://git.skeeks.com/skeeks/yii2-widget-ckeditor"
     },
     "authors": [
         {
@@ -15,7 +16,7 @@
         }
     ],
     "require" : {
-	    "ckeditor/ckeditor": "*",
+	    "ckeditor/ckeditor": ">=4.4.7",
         "yiisoft/yii2": "*"
     },
     "autoload": {
