@@ -41,18 +41,27 @@ class CKEditor extends InputWidget
 		} else {
 			echo Html::textarea($this->name, $this->value, $this->options);
 		}
-		$this->registerPlugin();
+		$this->registerAssets();
+		$this->_registerPlugin();
 	}
+
+    /**
+     * @return $this
+     */
+    public function registerAssets()
+    {
+        $view = $this->getView();
+		CKEditorWidgetAsset::register($view);
+
+        return $this;
+    }
 
 	/**
 	 * Registers CKEditor plugin
 	 */
-	protected function registerPlugin()
+	protected function _registerPlugin()
 	{
-		$view = $this->getView();
-
-		CKEditorWidgetAsset::register($view);
-
+        $view = $this->getView();
 		$id = $this->options['id'];
 
 		$options = $this->clientOptions !== false && !empty($this->clientOptions)
